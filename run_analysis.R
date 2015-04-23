@@ -2,8 +2,6 @@
 # Data Science Speicalization Track
 # Courseara - Johns Hopkins University
 
-library(plyr)
-
 # get the data for the project
 # download the data from: 
 # "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
